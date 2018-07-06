@@ -1,6 +1,8 @@
  ## MY PRECENTATION
  
- My Name Noor K Rachmanto SF
+ My Name Noor K Rachmanto SF.
+ 
+ ![flux explaned](https://github.com/noorkemal/Presentasi/blob/master/IMG_20170924_182930_076.jpg).
  
 ---
   ## PROBLEM
@@ -19,34 +21,33 @@
   
  ## The 4 Disciplines of Executing
  
-![flux explaned](https://raw.githubusercontent.com/noorkemal/Presentasi/master/51IKxy8mRzL._SX331_BO1%2C204%2C203%2C200_.jpg)
+- 4 Pelaksanaan Untuk Disiplin.
  
-- 4 Pelaksanaan Untuk Disiplin
+Fokus pada the Wildly Important.
  
-Fokus pada the Widly Important
+Bertindak pada lead Measures.
  
-Bertindak pada lead Measures
+Mengelola Scoreboard yang Memotivasi.
  
-Mengelola Scoreboard yang Memotivasi
+Menciptakan Irama Akuntabilitas.
  
-Menciptakan Irama Akuntabilitas
- 
+![flux explaned](https://raw.githubusercontent.com/noorkemal/Presentasi/master/51IKxy8mRzL._SX331_BO1%2C204%2C203%2C200_.jpg).
 ---
  
  ## Widly Important(Yang Sangat Penting)
  
  - Fokus adalah prinsip alami,sebuah hukum alam.
- - Membedakan Proritas Tertinggi dan whirlind.
+ - Membedakan Prioritas Tertinggi dan whirlwind.
  
 ---
  
  ## Lead Measure
  
  Strategi apapun yang anda tetapkan,kemajuan dan kesuksesan akan bertumpu pada
- dua macam ukuran : lag measure dan lead measure
+ dua macam ukuran : lag measure dan lead measure.
  
  - Lag measure adalah ukuran yang melacak pencapaian Wildly Impportant Goals,
-   dan biasanya anda menghabiskan dengan berdoa tanpa berusaha
+   dan biasanya anda menghabiskan dengan berdoa tanpa berusaha.
    contohya mendapatkan penghasilan.
  - Lead Measure mengukur perilaku perilaku baru yang akan mendorong kesuksesan pada lag measure
    contohnya memprediksi pengasilan.
@@ -55,9 +56,9 @@ Menciptakan Irama Akuntabilitas
  
  ## Scoreboard
  
- Langkah berikutnya adalah memenangkan permainan dengan skor meyakinkan
+ Langkah berikutnya adalah memenangkan permainan dengan skor meyakinkan.
  
- - Scoreboard/papanpenghitung seseorang sederhana sehingga akan mengetahui apakah 
+ - Scoreboard/papanpenghitung seseorang harus sederhana sehingga dengan mudah mengetahui apakah 
    kita menang atau kalah.
    
 ---
