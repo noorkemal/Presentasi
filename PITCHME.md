@@ -19,7 +19,7 @@
   
  ## The 4 Disciplines of Executing
  
- ![flux explaned](https://github.com/noorkemal/Presentasi)
+ ![flux explaned](https://raw.githubusercontent.com/noorkemal/Presentasi/master/51IKxy8mRzL._SX331_BO1%2C204%2C203%2C200_.jpg)
  
  - 4 Pelaksanaan Untuk Disiplin
  
