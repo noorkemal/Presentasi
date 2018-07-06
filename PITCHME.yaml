@@ -1,9 +1,9 @@
 # Layout
-layout : center-right
+layout : center
 
 # Look-and-Feel
 logo : assets/images/logo.png
-theme : night
+theme : beige
 theme-override : assets/css/PITCHME.css
 highlight : ir-black
 
