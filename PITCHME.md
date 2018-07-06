@@ -66,6 +66,6 @@
  untuk melakukan eksekusi dengan baik dan mengalahkan whirlwind.
  
  Lakukan dengan tetap konsisten dalam melakukan suatu pekerjaan
- cukup dengan 10-20 untuk dasar menit maka jika itu konsisten maka semua pekerjaan akan terselesaikan.
+ cukup dengan 10-20 menit untuk dasar menit maka jika itu konsisten maka semua pekerjaan akan terselesaikan.
  Dan lebih baik untuk dikembangkan agar hasilpun bertambah.
  
