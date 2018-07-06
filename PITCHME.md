@@ -19,6 +19,8 @@
   
  ## The 4 Disciplines of Executing
  
+ ![flux explaned](https://github.com/noorkemal/Presentasi)
+ 
  - 4 Pelaksanaan Untuk Disiplin
  
  Fokus pada the Widly Important
