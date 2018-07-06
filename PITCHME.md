@@ -2,8 +2,8 @@
  
  My Name Noor K Rachmanto SF
  
- ---
- ## PROBLEM
+---
+  ## PROBLEM
  
   Ada 2 hal utama yang dapat dipengaruhi seorang pemimpin/manusia terhadap hasil.
   
@@ -15,7 +15,7 @@
   
   Solusi menurut B.J Walker adalah :
   
-  ---
+---
   
  ## The 4 Disciplines of Executing
  
@@ -29,14 +29,14 @@
  
  Menciptakan Irama Akuntabilitas
  
- ---
+---
  
  ## Widly Important(Yang Sangat Penting)
  
  - Fokus adalah prinsip alami,sebuah hukum alam.
  - Membedakan Proritas Tertinggi dan whirlind.
  
- ---
+---
  
  ## Lead Measure
  
@@ -49,7 +49,7 @@
  - Lead Measure mengukur perilaku perilaku baru yang akan mendorong kesuksesan pada lag measure
    contohnya memprediksi pengasilan.
    
- ---
+---
  
  ## Scoreboard
  
@@ -58,7 +58,7 @@
  - Scoreboard/papanpenghitung seseorang sederhana sehingga akan mengetahui apakah 
    kita menang atau kalah.
    
- ---
+---
  
  ## Irama Akuntabilitas
  
