@@ -2,16 +2,22 @@
 layout : center
 
 # Look-and-Feel
-theme : beige
+theme : moon
 theme-override : assets/css/PITCHME.css
 highlight : ir-black
 
 # Behavior
-transition : none
-published : true
+transition : fade
+published : none
 
 # Plugins
 charts : true
 mathjax : TeX-AMS_HTML-full
 
-background : assets/img/chuttersnap.png
+# Remote
+remote-control: true
+remote-control-prevkey: 38
+remote-control-nextkey: 40
+
+# Text
+font-face : Algerian
