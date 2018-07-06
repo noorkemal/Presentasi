@@ -2,8 +2,6 @@
  
  My Name Noor K Rachmanto SF.
  
- ![flux explaned](https://github.com/noorkemal/Presentasi/blob/master/IMG_20170924_182930_076.jpg).
- 
 ---
   ## PROBLEM
  
