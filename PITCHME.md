@@ -19,17 +19,17 @@
   
  ## The 4 Disciplines of Executing
  
- ![flux explaned](https://raw.githubusercontent.com/noorkemal/Presentasi/master/51IKxy8mRzL._SX331_BO1%2C204%2C203%2C200_.jpg)
+![flux explaned](https://raw.githubusercontent.com/noorkemal/Presentasi/master/51IKxy8mRzL._SX331_BO1%2C204%2C203%2C200_.jpg)
  
- - 4 Pelaksanaan Untuk Disiplin
+- 4 Pelaksanaan Untuk Disiplin
  
- Fokus pada the Widly Important
+Fokus pada the Widly Important
  
- Bertindak pada lead Measures
+Bertindak pada lead Measures
  
- Mengelola Scoreboard yang Memotivasi
+Mengelola Scoreboard yang Memotivasi
  
- Menciptakan Irama Akuntabilitas
+Menciptakan Irama Akuntabilitas
  
 ---
  
